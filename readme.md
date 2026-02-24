@@ -60,7 +60,7 @@ white noise animation with sporadic apperance of nonsense symbols or the word "D
 
 #### animation
 
-![CRT shader animation](shaders/Shader_creepy-CRT-flicker/crt-anim.gif)
+![CRT shader animation](shaders/creepy-CRT-flicker/crt-anim.gif)
 
 #### exported parameters
 ![CRT shader exported parameters](shaders/creepy-CRT-flicker/exported-parameters.png)
